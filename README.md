@@ -1,4 +1,3 @@
-# my-web-story
 <!doctype html> 
 
 <html>
