@@ -1,8 +1,5 @@
-<!doctype html>
-
 <html>
 <head>
-	<title>나의 꿈, PM을 향하여</title>
 	<meta charset="utf-8" />
 	<link rel="stylesheet" href="style.css">
 </head>
