@@ -1,9 +1,7 @@
-<!doctype html>
-
 <html>
 <head>
-	<title>나의 꿈, PM을 향하여</title>
 	<meta charset="utf-8" />
+	<link rel="stylesheet" href="style.css">
 </head>
 <body>
 	<h1>product manager가 되기 위한 준비과정</h1>
@@ -23,16 +21,14 @@
 				Chapter 02. 개인정비시간을 활용한 실천체크리스트<br>
 				Chapter 03. 자투리 간 볼거리_PM 관련 아티클, 동영상<br><br>
 			</div>
-		<h2><div style="padding: 45px;">Chapter 01. 군대에서의 고민</h2>
-			
+		<h2>Chapter 01. 군대에서의 고민</h2>
 		<p>
 			<h3>1. 인트로<h3>
-			MY Dream: <a href="https://madforge50.tistory.com/720">Product manager</a><br>
-			필요한 역량: 영어의사소통, 커뮤니케이션, 제품 관리, 우선순위, 일정관리, 빠른 학습 등 매우 많다.<br>
-			바로 주니어PM이 되는 방법도 있다. 그렇지만 매우 빈약하고 튼실하지 못하다.<br>
-			보통의 PM모집공고는 웹/앱 서비스 기획경험을 묻고있다.
-			또한 여러가지 툴사용과 	함께 기본적인 UI/UX기획 및 설계능력을 요구하고있다.<br><div style="text-align: center; padding: 25px;" ><img src="PM.jpg" style="width:400px; height:500px;" /><br>출처: https://madforge50.tistory.com/720</div>
-			<br>현재 나이 22살로 내가 이런 역량들을 쌓아올려 꿈을 이루기 위해선 어떻게 행동해야하는가.<br><br>
+			MY Dream: <a href="https://madforge50.tistory.com/720">Product manager</a>
+			<br>필요한 역량: 영어의사소통, 커뮤니케이션, 제품 관리, 우선순위, 일정관리, 빠른 학습 등 매우 많다.
+			바로 주니어PM이 되는 방법도 있다. 그렇지만 매우 빈약하고 튼실하지 못하다.<br>보통의 PM모집공고는 웹/앱 서비스 기획경험을 묻고있다.
+			또한 여러가지 툴사용과 함께 기본적인 UI/UX기획 및 설계능력을 요구하고있다.<br><div style="text-align: center"><img src="PM.jpg" style="width:400px; height:500px;" /></div>
+			출처: https://madforge50.tistory.com/720<br>현재 나이 22살로 내가 이런 역량들을 쌓아올려 꿈을 이루기 위해선 어떻게 행동해야하는가.<br><br>
 			1. 영어회화공부( What: 워킹홀리데이, 꾸준한 영어학습_의사소통)<br>
 			2. 소프트스킬( What: 창업경진대회, 사이드 프로젝트, 대외활동, 공모전 등등)<br>
 			3. 지식습득( What: 도서_PM관련 독서, 실무자 하드스킬 관련 도서)<br>
@@ -70,7 +66,7 @@
 			금오공대-컴공<br><br>
 			(편입)<br>
 			상명대-휴면지능정보공학전공<br><br><br>
-			<h2><div style="padding: 45px;">Chapter 02. 개인정비시간을 활용한 실천체크리스트</h2>
+			<h2>Chapter 02. 개인정비시간을 활용한 실천체크리스트</h2>
 			<input type="checkbox" name="check" value="list1" checked="on">생활코딩<br><br>
 			<input type="checkbox" name="check" value="list2" checked="on">영어회화_3030잉글리시, 크리에이티브 잉글리시<br><br>
 			<input type="checkbox" name="check" value="list3" checked="on">헬스<br><br>
@@ -80,44 +76,8 @@
 			<input type="checkbox"><input type="text" size=100 value="input text"><br><br>
 			<input type="checkbox"><input type="text" size=100 value="input text"><br><br>
 			<input type="checkbox"><input type="text" size=100 value="input text"><br><br>
-			<h2><div style="padding: 45px;">Chapter 03. 자투리 간 볼거리_PM 관련 아티클, 동영상</h2>
+			<h2>Chapter 03. 자투리 간 볼거리_PM 관련 아티클, 동영상</h2>
 		</p>
-				<p>
-				<div id="disqus_thread"></div>
-				<script>
-
-					/**
-	*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-	*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-					/*
-	var disqus_config = function () {
-	this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-	this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-	};
-	*/
-					(function() { // DON'T EDIT BELOW THIS LINE
-						var d = document, s = d.createElement('script');
-						s.src = 'https://web1-2.disqus.com/embed.js';
-						s.setAttribute('data-timestamp', +new Date());
-						(d.head || d.body).appendChild(s);
-					})();
-				</script>
-				<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
-				</p>
-								  <!--Start of Tawk.to Script-->
-				<script type="text/javascript">
-				var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-				(function(){
-				var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-				s1.async=true;
-				s1.src='https://embed.tawk.to/57a72994c11fe69b0bd8fa90/default';
-				s1.charset='UTF-8';
-				s1.setAttribute('crossorigin','*');
-				s0.parentNode.insertBefore(s1,s0);
-				})();
-				</script>
-				<!--End of Tawk.to Script-->
 	</div>
 </div>
 </body>
