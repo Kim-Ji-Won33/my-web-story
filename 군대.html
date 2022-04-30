@@ -1,13 +1,19 @@
 <!doctype html>
-
 <html>
 <head>
 	<title>나의 꿈, PM을 향하여</title>
 	<meta charset="utf-8" />
-	<link rel="stylesheet" href="style.css">
 </head>
 <body>
 	<h1>product manager가 되기 위한 준비과정</h1>
+  <input type="button" value="night" onclick="
+					      document.querySelector('body').style.backgroundColor = 'balck';  
+					      document.querySelector('body').style.color = 'white';
+">
+<input type="button" value="day" onclick="
+					  document.querySelector('body').style.backgroundColor = 'white';
+					  document.querySelector('body').style.color = 'black';
+">
 	<div id="grid">
 		<ol>
 			<li><a href="군대.html"  class="saw" id="active">군대</a></li>
@@ -72,15 +78,15 @@
 			(편입)<br>
 			상명대-휴면지능정보공학전공<br><br><br>
 			<h2><div style="padding: 45px;">Chapter 02. 개인정비시간을 활용한 실천체크리스트</h2>
-			<input type="checkbox" name="check" value="list1" checked="on">생활코딩<br><br>
-			<input type="checkbox" name="check" value="list2" checked="on">영어회화_3030잉글리시, 크리에이티브 잉글리시<br><br>
-			<input type="checkbox" name="check" value="list3" checked="on">헬스<br><br>
-			<input type="checkbox" name="check" value="list4">독서<br><br>
-			<input type="checkbox"><input type="text" size=100 value="input text"><br><br>
-			<input type="checkbox"><input type="text" size=100 value="input text"><br><br>
-			<input type="checkbox"><input type="text" size=100 value="input text"><br><br>
-			<input type="checkbox"><input type="text" size=100 value="input text"><br><br>
-			<input type="checkbox"><input type="text" size=100 value="input text"><br><br>
+			<input type="checkbox" name="check" value="list1" onclick="alert('done!!')">생활코딩<br><br>
+			<input type="checkbox" name="check" value="list2" onclick="alert('done!!')">영어회화_3030잉글리시, 크리에이티브 잉글리시<br><br>
+			<input type="checkbox" name="check" value="list3" onclick="alert('done!!')">헬스<br><br>
+			<input type="checkbox" name="check" value="list4" onclick="alert('done!!')">독서<br><br>
+			<input type="checkbox" onclick="alert('done!!')"><input type="text" value="input text" onchange="alert('changed')"><br><br>
+			<input type="checkbox" onclick="alert('done!!')"><input type="text" size=100 value="input text" onchange="alert('changed')"><br><br>
+			<input type="checkbox" onclick="alert('done!!')"><input type="text" size=100 value="input text" onchange="alert('changed')"><br><br>
+			<input type="checkbox" onclick="alert('done!!')"><input type="text" size=100 value="input text" onchange="alert('changed')"><br><br>
+			<input type="checkbox" onclick="alert('done!!')"><input type="text" size=100 value="input text" onchange="alert('changed')"><br><br>
 			<h2><div style="padding: 45px;">Chapter 03. 자투리 간 볼거리_PM 관련 아티클, 동영상</h2>
 		</p>
 		<p>
@@ -123,4 +129,3 @@ this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your pag
 </div>
 </body>
 <html>
-
